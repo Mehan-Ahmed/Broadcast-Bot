@@ -1,5 +1,5 @@
 /*CMD
-  command: Broad
+  command: /start
   help: 
   need_reply: false
   auto_retry_time: 
