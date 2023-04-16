@@ -1,4 +1,4 @@
-# TexttoBinaryProBot - chat bot
+# BroadcastBot - chat bot
 It is repository for chat bot: [@TexttoBinaryProBot](https://t.me/TexttoBinaryProBot)
 
 ## What it is?
